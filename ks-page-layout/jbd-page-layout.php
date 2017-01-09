@@ -3,7 +3,7 @@
 	 * Plugin Name: JBD Custom Page Layout
 	 * Plugin URI: http://www.howhigh.ca
 	 * Description: A custom page layout plugin
-	 * Version: 2
+	 * Version: 2.5
 	 * Author: Sanka Abeysinghe
 	 * Author URI: http://www.howhigh.ca
 	 * License: GPL licence
